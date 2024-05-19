@@ -1,6 +1,6 @@
 # Usage
 
-### Build container:
+### Build image:
 In the projcet folder run:
 
 ```
